@@ -1,4 +1,3 @@
-#Jhenna Voorhis
 #solution to the FizzBuzz problem
 1.upto(100){|number| 
   if number%3 == 0 && number%5 ==0
